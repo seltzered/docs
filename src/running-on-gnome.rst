@@ -57,3 +57,5 @@ Then you can create two desktop files for these scripts to show up among your ap
   Version=1.0
   Icon=activitywatch
   Categories=Utility;
+
+And refresh to see the entries by refreshing the shell or running `xdg-desktop-menu forceupdate`
